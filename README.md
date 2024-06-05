@@ -8,3 +8,5 @@ Sxhkdrc
 Picom
 Dunst
 Polybar
+
+Terminal-xfce4-terminal////Shell-Zsh(Oh-my-zsh)/////Theme-Gruvbox/////Icons-Gruvbox-Plus-Dark////Neovim-NVchad////
